@@ -21,7 +21,7 @@ function App() {
               <h3>Blog</h3>
           </Stack>
 
-          <Link href="#" underline="none">
+          <Link href="https://github.com/geeera/blog-react-app" underline="none">
               <GitHubIcon />
           </Link>
       </header>
