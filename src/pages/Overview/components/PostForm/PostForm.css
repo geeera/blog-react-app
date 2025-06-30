@@ -1,0 +1,8 @@
+.picker:has(.uploaded) .icon {
+    opacity: 0;
+    transition: opacity .4s;
+}
+
+.picker:has(.uploaded):hover .icon{
+    opacity: 1;
+}
